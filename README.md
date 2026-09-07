@@ -141,7 +141,7 @@ Exploring practical AI applications using LLMs, RAG pipelines, vector databases,
 * 💼 LinkedIn: [www.linkedin.com/in/jayanthcr019]
 * 📧 Email: [crjayanth19@gmail.com]
 * 🌐 Portfolio: [Add your portfolio]
-* 🐙 GitHub: [@YOUR_USERNAME](https://github.com/JAYANTH CR)
+* 🐙 GitHub: [@YOUR_USERNAME](https://github.com/JAYANTHCR)
 
 ---
 

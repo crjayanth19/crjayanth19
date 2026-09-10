@@ -63,7 +63,13 @@ NLP • Machine Learning • AI Fundamentals
 
 ---
 
-### 🔥 Featured Project
+### 🔥 Featured Projects
+
+**[Job Portal Application](https://github.com/crjayanth19/Job-Portal-Application)**
+A full-stack job portal where candidates can search, apply, and track applications.
+- Built with Python, Spring Boot, MySQL, and REST APIs
+- Role-based authentication and authorization
+- Resume upload and job filtering functionality
 
 **[AI-Powered Resume Screening & Ranking System](https://github.com/crjayanth19)**
 An AI-based resume screening system built in Python using NLP to extract resume content, identify relevant skills, and evaluate candidates against job requirements.
@@ -96,3 +102,9 @@ An AI-based resume screening system built in Python using NLP to extract resume 
 - 📧 crjayanth19@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/crjayanth19)
 - 💻 [GitHub](https://github.com/crjayanth19)
+
+- ## 💡 Quote
+
+> "Build. Learn. Improve. Repeat. 🚀"
+
+⭐ Feel free to explore my repositories and connect with me!

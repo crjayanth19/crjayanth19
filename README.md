@@ -18,7 +18,7 @@
 - 💼 Full Stack Developer Intern at **Innovus Lab Pvt. Ltd.**, building end-to-end web apps with React.js, Node.js/Express.js, and MongoDB
 - 🧠 Complementing web dev skills with Python, Machine Learning, and NLP through independent projects
 - 🌱 Currently exploring more advanced AI/ML applications
-- 📍 Based in Bengaluru, Karnataka, India
+- 📍 Bengaluru, Karnataka, India
 
 ---
 
@@ -105,6 +105,6 @@ An AI-based resume screening system built in Python using NLP to extract resume 
 
 - ## 💡 Quote
 
-> "Build. Learn. Improve. Repeat. 🚀"
+ "Build. Learn. Improve. Repeat. 🚀"
 
 ⭐ Feel free to explore my repositories and connect with me!

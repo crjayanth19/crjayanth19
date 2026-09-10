@@ -107,4 +107,4 @@ An AI-based resume screening system built in Python using NLP to extract resume 
 
     "Build. Learn. Improve. Repeat. 🚀"
 
-⭐ Feel free to explore my repositories and connect with me!
+     Feel free to explore my repositories and connect with me!

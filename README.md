@@ -85,16 +85,6 @@ An AI-based resume screening system built in Python using NLP to extract resume 
 - AI – Machine Learning Engineer — Rooman Technologies Pvt. Ltd.
 - HTML5 and CSS3 Fundamentals — Udemy
 - Python Essentials 1 — Cisco Networking Academy & OpenEDG Python Institute
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crjayanth19&show_icons=true&theme=default" alt="Jayanth's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crjayanth19" alt="Jayanth's GitHub streak" />
-</p>
-
 ---
 
 ### 📫 Connect with Me

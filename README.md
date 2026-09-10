@@ -145,7 +145,7 @@ I'm currently strengthening my skills in:
 ## 🤝 Connect With Me
 
 📧 **Email:** [crjayanth19@gmail.com](mailto:crjayanth19@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/jayanthcr19](https://linkedin.com/in/jayanthcr19)
+💼 **LinkedIn:** [linkedin.com/in/crjayanth19](https://linkedin.com/in/crjayanth19)
 🐙 **GitHub:** [github.com/crjayanth19](https://github.com/crjayanth19)
 
 ---

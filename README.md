@@ -92,8 +92,8 @@ An AI-based resume screening system built in Python using NLP to extract resume 
 - 📧 crjayanth19@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/crjayanth19)
 - 💻 [GitHub](https://github.com/crjayanth19)
-
-- ## 💡 Quote
+---
+### 💡 Quote
 
     "Build. Learn. Improve. Repeat. 🚀"
 
